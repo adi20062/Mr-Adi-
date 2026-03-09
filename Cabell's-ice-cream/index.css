@@ -1,0 +1,14 @@
+/* Minimal stylesheet to avoid 404 and provide base styles */
+:root {
+  --bg: #f8fafc;
+}
+html, body, #root {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background: var(--bg);
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
