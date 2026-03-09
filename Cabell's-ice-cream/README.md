@@ -1,4 +1,4 @@
-# 🍦 AI Ice Cream Shop
+# 🍦 Ice Cream Shop
 
 A modern **Ice Cream Shop Web Application** built using **React** with **AI-powered features**.
 This project provides an interactive shopping experience where users can explore ice cream flavors, browse menu items, and interact with an AI assistant for recommendations.
